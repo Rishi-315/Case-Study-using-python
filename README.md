@@ -1,4 +1,6 @@
 # Case-Study-using-python
+[Case Study Python.docx](https://github.com/Rishi-315/Case-Study-using-python/files/7736452/Case.Study.Python.docx)
+[case study 2.txt](https://github.com/Rishi-315/Case-Study-using-python/files/7736455/case.study.2.txt)
 Case Study on shear force and Bending moment Diagram using python
 import numpy as np 
 import matplotlib.pyplot as plt
@@ -33,3 +35,5 @@ plt.xlim([0,3])
 plt.ylim([-250,250])
 plt.fill_between(a,b) #plt.fill used to colour or highlight shear force area
 plt.fill_between(x,y) #plt.fill used to colour or highlight benging moment
+
+
