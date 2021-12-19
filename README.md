@@ -28,6 +28,11 @@ Members ABC and BD of the counter chair are rigidly connected at B and smooth co
 ![image](https://user-images.githubusercontent.com/96302395/146661643-6e5eff0e-2297-4288-a9e0-1e34580c8da8.png)
 ![image](https://user-images.githubusercontent.com/96302395/146661881-4739bd6f-4800-4013-8648-d731892beed9.png)
 
+Output:
+
+![image](https://user-images.githubusercontent.com/96302395/146661925-80d50938-8fc9-489d-a2cb-912c3bc6deca.png)
+
+
 
 
 
